@@ -21,7 +21,6 @@ env/
 
 # Compiled web assets
 /static/
-/templates/
 
 # Environment-specific settings
 *.env
