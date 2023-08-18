@@ -1,0 +1,36 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Development and environment files
+.idea/
+.vscode/
+*.iml
+*.pydevproject
+
+# Compiled web assets
+/static/
+/templates/
+
+# Environment-specific settings
+*.env
+
+# OS-specific files
+.DS_Store
+
+# Configuration files with sensitive information
+config.py
+
+# Environment variables file
+.env
